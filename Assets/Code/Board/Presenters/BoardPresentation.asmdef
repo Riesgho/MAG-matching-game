@@ -1,0 +1,20 @@
+{
+    "name": "BoardPresentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f5db38b5b622eab4ea039e2e10a39ee8",
+        "GUID:5cd54327a43d1fc43b773a3c1031792e",
+        "CoreDomain",
+        "GUID:e8b8f8bf2554a4b4cb895d77be929722",
+        "GUID:f500c187491ac2441a6ca716d84daf7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

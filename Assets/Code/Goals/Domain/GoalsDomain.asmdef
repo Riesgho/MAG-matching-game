@@ -1,0 +1,17 @@
+{
+	"name": "GoalsDomain",
+	"rootNamespace": "",
+	"references": [
+		"CoreDomain",
+		"BoardDomain"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

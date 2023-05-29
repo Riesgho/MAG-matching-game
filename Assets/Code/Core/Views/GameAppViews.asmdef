@@ -1,0 +1,25 @@
+{
+    "name": "GameAppViews",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7b464a56d9d14ea798ea5a9260793624",
+        "GUID:73f1d17cfd854b978be752e8985996c4",
+        "GUID:5cd54327a43d1fc43b773a3c1031792e",
+        "GUID:f5db38b5b622eab4ea039e2e10a39ee8",
+        "GUID:ced32a413b65b8f4e80da550eb16d7de",
+        "GUID:72d0cee993784644e922285b2dbab2f7",
+        "GUID:3917453aa0a41434dababc00ad59b255",
+        "GUID:614456526352d5d408608bcb0a357488",
+        "GUID:e8b8f8bf2554a4b4cb895d77be929722",
+        "GUID:f500c187491ac2441a6ca716d84daf7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
